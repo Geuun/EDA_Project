@@ -42,7 +42,7 @@
 
 <br>
 
-#### 파일 설명
+#### Commit Message Convention
 
 - feat: 기능 개발 관련
 - fix: 오류 개선 혹은 버그 패치
